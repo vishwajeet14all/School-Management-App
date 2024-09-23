@@ -11,7 +11,7 @@ Access records, view marks, and communicate effortlessly.
 
 
 <br><br>
-[LinkedIn](https://www.linkedin.com/in/vishwajeet-yadav-892308237/)
+[LinkedIn]([https://www.linkedin.com/in/vishwajeet-yadav-892308237/])
 
 # About
 
